@@ -1,0 +1,23 @@
+body {
+background-color: aqua;
+}
+h1 {
+    font-size: 40;
+    font-family: cursive;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
+input {
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    border-radius: 34cm;
+}
+#butt1 {
+    width: 200px;
+    height: 60px;
+    border-radius: 50cm;
+    background-color: aquamarine;
+}
